@@ -1,0 +1,140 @@
+.summary {
+    color: #ffffff;
+    border-left: 5px solid #f57e9d;
+    font-size:16px;
+}
+
+
+h3 {color: #f696ea; }
+h4 {color: white; }
+
+
+body {
+    background-color: #290b3b !important;
+    color: white;
+}
+
+.navbar-header {
+    float: none;
+    background-color: #1e0420;
+}
+.nav ul li a {
+    background-color: #341948!important;
+    color: white;
+}
+.nav li a {
+    background-color: #341948!important;
+    color: white;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    background-color: #e89de9;
+    color: white;
+}
+
+.nav > li.active > a {
+    background-color: #040404;
+}
+
+.nav > li > a:hover {
+    background-color: #0a0a0a;
+}
+
+div.navbar-collapse .dropdown-menu > li > a:hover {
+    background-color: #030404;
+}
+
+.nav li.thirdlevel > a {
+    background-color: #464343 !important;
+    color: #248EC2;
+    font-weight: bold;
+}
+
+a[data-toggle="tooltip"] {
+    color: #649345;
+    font-style: italic;
+    cursor: default;
+}
+
+.navbar-inverse {
+    background-color: #1e0420;
+    border-color: #f795e5;
+}
+.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-home.fa-lg.navbar-brand:hover {
+     color: #f0f0f0;
+}
+
+a.navbar-brand:hover {
+  color: #f0f0f0;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #030303;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    background-color: #730375;
+    color: #ffffff;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #730375 !important;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #070707;
+    border-color: #6a045b;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    background-color: #290b3b;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    background-color: #020202;
+    border-color: #902f93;
+}
+
+.printTitle {
+    color: #040404 !important;
+}
+
+body.print h1 {color: #015CAE !important; font-size:28px !important;}
+body.print h2 {color: #595959 !important; font-size:20px !important;}
+body.print h3 {color: #E50E51 !important; font-size:14px !important;}
+body.print h4 {color: #679DCE !important; font-size:14px; font-style: italic !important;}
+
+.anchorjs-link:hover {
+    color: #216f9b;
+}
+
+div.sidebarTitle {
+    color: #015CAE;
+}
+
+li.sidebarTitle {
+  margin-top:20px;
+    font-weight:normal;
+    font-size:130%;
+    color: #ed88f6;
+    margin-bottom:10px;
+    margin-left: 5px;
+
+}
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: #015CAE;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #015CAE;
+}

@@ -28,28 +28,60 @@ entries:
       output: web, pdf
       type: homepage
 
-  - title: Layers
-    output: web, pdf
-    folderitems:
-
-    - title: Introduction
-      url: /mydoc_introduction.html
-      output: web, pdf
-
   - title: Macros
     output: web, pdf
     folderitems:
 
-    - title: Introduction
-      url: /mydoc_introduction.html
+    - title: Overview
+      url: /macros.html
+      output: web, pdf
+
+    - title: Creating Macros
+      url: /create_macro.html
+      output: web, pdf
+
+    - title: Add Texts
+      url: /add_text.html
+      output: web, pdf
+
+    - title: Editing Macros
+      url: /edit_macros.html
+      output: web, pdf
+
+    - title: Deleting Macros
+      url: /delete_macros.html
+      output: web, pdf
+
+  - title: Layers
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: /layers.html
+      output: web, pdf
+
+    - title: Creating / Editing Layers
+      url: /create_layer.html
+      output: web, pdf
+
+    - title: Deleting Layers
+      url: /delete_layer.html
       output: web, pdf
 
   - title: Tags
     output: web, pdf
     folderitems:
 
-    - title: Introduction
-      url: /mydoc_introduction.html
+    - title: Overview
+      url: /tags.html
+      output: web, pdf
+
+    - title: Creating Tags
+      url: /create_tag.html
+      output: web, pdf
+
+    - title: Deleting Tags
+      url: /delete_tag.html
       output: web, pdf
 
   - title: Settings

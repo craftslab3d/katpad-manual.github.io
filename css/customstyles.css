@@ -1,5 +1,6 @@
 body {
     font-size:15px;
+    font-family: "Courier New", monospace !important;
 }
 
 .bs-callout {
@@ -421,7 +422,7 @@ ul#mysidebar {
 }
 
 span.projectTitle {
-    font-family: Helvetica;
+    font-family: "Courier New", monospace;
     font-weight: bold;
 }
 
@@ -705,7 +706,7 @@ ol.series li {
 .versionTagline {
     text-align: center;
     margin-bottom: 20px;
-    font-family: courier;
+    font-family: "Courier New", monospace;
     color: silver;
     color: #444;
     display:block;
@@ -810,7 +811,7 @@ a.accordion-toggle {
 
 span.red {
     color: red;
-    font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+    font-family: "Courier New", monospace;
 }
 
 h3.codeExplanation {
@@ -831,7 +832,7 @@ span.soft {
 .endpoint {
     padding: 15px;
     background-color: #f0f0f0;
-    font-family: courier;
+    font-family: "Courier New", monospace;
     font-size: 110%;
     margin: 20px 0px;
     color: #444;
@@ -1035,7 +1036,7 @@ table thead th code.highlighter-rouge {
     width: 100px;
     height: 80px;
     background-color: #f5f5f5;
-    font-family: Arial;
+    font-family:"Courier New", monospace;
     font-size: 12px;
     hyphens: auto;
     float: left;
@@ -1060,7 +1061,7 @@ table thead th code.highlighter-rouge {
 }
 
 h2.userMapTitle {
-    font-family: Arial;
+    font-family: "Courier New", monospace;
 }
 
 #userMap a:hover {

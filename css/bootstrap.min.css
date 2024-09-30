@@ -8,7 +8,7 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
 html {
-    font-family: sans-serif;
+    font-family: "Courier New", monospace;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
@@ -1376,7 +1376,7 @@ html {
 }
 
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Courier New", monospace;
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
@@ -1894,7 +1894,7 @@ code,
 kbd,
 pre,
 samp {
-    font-family: Menlo, Monaco, Consolas, "Courier New", monospace
+    font-family: "Courier New", monospace;
 }
 
 code {
@@ -6909,7 +6909,7 @@ button.close {
     position: absolute;
     z-index: 1070;
     display: block;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Courier New", monospace;
     font-size: 12px;
     font-weight: 400;
     line-height: 1.4;
@@ -7033,7 +7033,7 @@ button.close {
     display: none;
     max-width: 276px;
     padding: 1px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Courier New", monospace;
     font-size: 14px;
     font-weight: 400;
     line-height: 1.42857143;

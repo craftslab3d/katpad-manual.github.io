@@ -1,3 +1,6 @@
+html {
+    font-family: "Courier New", monospace !important;
+}
 .summary {
     color: #ffffff;
     border-left: 5px solid #f57e9d;
@@ -12,6 +15,7 @@ h4 {color: white; }
 body {
     background-color: #290b3b !important;
     color: white;
+    font-family: "Courier New", monospace !important;
 }
 
 .navbar-header {

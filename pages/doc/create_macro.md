@@ -15,7 +15,7 @@ All macros can have until 5 keys, which when activated, it will simulate all fiv
 To create a macro it needed:
 * Input a name, max 6 chars
 * You can choose a tag (or not)
-* You cand add a text, max 80 chars including spaces and line breaks
+* You can add a text, max 80 chars including spaces and line breaks
 * Add the keys, which when in focus, you can use your keyboard to add basic keys or just click on the screen's keyboards.
 * To remove a key, just click on it.
 

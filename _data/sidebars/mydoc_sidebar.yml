@@ -40,6 +40,10 @@ entries:
       url: /create_macro.html
       output: web, pdf
 
+    - title: Importing Macros
+      url: /import_macro.html
+      output: web, pdf
+
     - title: Add Texts
       url: /add_text.html
       output: web, pdf

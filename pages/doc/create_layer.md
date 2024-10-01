@@ -5,7 +5,7 @@ permalink: create_layer.html
 folder: doc
 ---
 
-![Layers](/images/add-layer.png){:width="940"}
+![Layers](./images/add-layer.png){:width="940"}
 
 To use macros you need a layer.
 The process is simple to create or edit a layer:

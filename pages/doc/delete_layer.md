@@ -5,7 +5,7 @@ permalink: delete_layer.html
 folder: doc
 ---
 
-![Layers](/images/delete-layer.jpg){:width="740"}
+![Layers](./images/delete-layer.jpg){:width="740"}
 
 It's possible delete a layer by clicking on the remove button presented on each layer's row.
 

@@ -5,10 +5,10 @@ permalink: create_macro.html
 folder: doc
 ---
 
-![Macros](/images/create-macro.jpg){:width="740"}
+![Macros](./images/create-macro.jpg){:width="740"}
 
 Here you can create macros!
-Macros are combination of keys (from the keyboard) to achiev a shortcut for a specific application or Operational System, e.g.: Ctrl + c = Copy.
+Macros are combination of keys (from the keyboard) to achieve a shortcut for a specific application or Operational System, e.g.: Ctrl + c = Copy.
 
 All macros can have until 5 keys, which when activated, it will simulate all five keys pressed in the same time.
 

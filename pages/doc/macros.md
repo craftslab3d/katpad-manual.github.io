@@ -5,7 +5,7 @@ permalink: macros.html
 folder: doc
 ---
 
-![Macros](/images/katpad-doc-screen-01.png){:width="940"}
+![Macros](./images/katpad-doc-screen-01.png){:width="940"}
 
 The macros screen provides all operations with macros: create, edit, import and list them.
 Macros can be tagged, but before you need create a tag on [Tags][tag] and then relates with the tag when creating or editing a macro.

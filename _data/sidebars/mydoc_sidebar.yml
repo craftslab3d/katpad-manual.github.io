@@ -86,8 +86,12 @@ entries:
 
   - title: Settings
     output: web, pdf
-
     folderitems:
+
+    - title: Overview
+      url: /settings.html
+      output: web, pdf
+
     - title: Wifi
       url: /mydoc_pages.html
       output: web, pdf

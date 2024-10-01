@@ -5,15 +5,15 @@ permalink: create_tag.html
 folder: doc
 ---
 
-![TAGS](/images/add-tag.jpg){:width="940"}
+![TAGS](./images/add-tag.jpg){:width="940"}
 
-To use macros you need a layer.
-The process is simple to create or edit a layer:
+Tag creation is quite simple:
 
 * Input a name, max 10 chars
-* Choose a color
+* Choose a colour
+* Save... Done!
 
-{% include tip.html content="Choosing different colors for each tag is helpful." %}
+{% include tip.html content="Choosing different colours for each tag is helpful." %}
 
 
 {% include links.html %}

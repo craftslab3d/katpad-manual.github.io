@@ -5,7 +5,7 @@ permalink: edit_macros.html
 folder: doc
 ---
 
-![Macros](/images/edit-macro.jpg){:width="740"}
+![Macros](./images/edit-macro.jpg){:width="740"}
 
 On this part you can change any macro already created, you can:
 

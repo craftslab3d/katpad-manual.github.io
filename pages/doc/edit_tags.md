@@ -5,7 +5,7 @@ permalink: edit_tags.html
 folder: doc
 ---
 
-![TAGS](/images/edit-tag.jpg){:width="740"}
+![TAGS](./images/edit-tag.jpg){:width="740"}
 
 On this part you can change any macro already created, you can:
 

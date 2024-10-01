@@ -5,10 +5,10 @@ permalink: layers.html
 folder: doc
 ---
 
-![Layers](/images/katpad-layers.png){:width="940"}
+![Layers](./images/katpad-layers.png){:width="940"}
 
 The Layers section provides all operations: create, edit, delete, activation, reposition and list.
-A layer can be repositioned by drag the row to the positon wanted, it will change the sequence it appears on the KatPad.
+A layer can be repositioned by drag the row to the position wanted, it will change the sequence it appears on the KatPad.
 
 {% include tip.html content="By deactivating a Layer, it will be unable on the KatPad, and it can be undone only on this screen" %}
 

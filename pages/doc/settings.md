@@ -1,11 +1,11 @@
 ---
-title: Tags - Overview
+title: Settings - Overview
 sidebar: mydoc_sidebar
-permalink: tags.html
+permalink: settings.html
 folder: doc
 ---
 
-![TAGS](./images/tags.jpg){:width="940"}
+![TAGS](./images/settings.jpg){:width="940"}
 
 Tags are an easy way to categorize yours macros, you can easily find yours macros by application or any other type you want.
 

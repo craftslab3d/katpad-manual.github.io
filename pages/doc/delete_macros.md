@@ -5,7 +5,7 @@ permalink: delete_macros.html
 folder: doc
 ---
 
-![Macros](/images/delete-macro.jpg){:width="740"}
+![Macros](./images/delete-macro.jpg){:width="740"}
 
 When a macro is in editing mode is possible delete it.
 

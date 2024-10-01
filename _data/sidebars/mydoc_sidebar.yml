@@ -93,19 +93,15 @@ entries:
       output: web, pdf
 
     - title: Wifi
-      url: /mydoc_pages.html
+      url: /wifi.html
       output: web, pdf
 
-    - title: Backup
-      url: /mydoc_posts.html
-      output: web, pdf
-
-    - title: Restore
-      url: /mydoc_lists.html
+    - title: Backup / Restore
+      url: /backup.html
       output: web, pdf
 
     - title: Reset
-      url: /mydoc_conditional_logic.html
+      url: /reset.html
       output: web, pdf
 
 # Copyright 2021 Google LLC

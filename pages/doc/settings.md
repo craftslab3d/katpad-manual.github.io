@@ -7,12 +7,6 @@ folder: doc
 
 ![TAGS](./images/settings.jpg){:width="940"}
 
-Tags are an easy way to categorize yours macros, you can easily find yours macros by application or any other type you want.
-
-On this section you can create news tags, edit and delete them.
-
-{% include important.html content="There is a counter to show you how many tags you can create, the maximum is 20 tags." %}
-
-{% include warning.html content="Deletion cannot be undone, so be careful." %}
+On the settings section you can deal with important changes on your KatPad, you can: backup your data, restore it, reset everything and configure your WIFI.
 
 {% include links.html %}

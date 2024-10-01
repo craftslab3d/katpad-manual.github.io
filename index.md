@@ -14,6 +14,10 @@ summary: These brief instructions will help you get started quickly with the Kat
 
 Hello!
 
+The KatPad is a 3D printed macropad in ICED PETG plastic and powered with the Sugoi-Macropad-Firmware created by Crafts Lab 3D.
+
+The Sugoi-Macropad-Firmware has your own Programmer Software (Server Based) which makes it totally autonomous and free of a 3rd party software.  
+
 To get your KatPat set up, please follow the instructions below.
 
 ### 1. Configure your WIFI
@@ -48,7 +52,7 @@ First, plug your KatPad on your computer. Then, after the splash screen:
 {% include note.html content="KATPAD-WIFI-AP is the Access Point created by the KatPad to configure your macropad for the first time. It doesn't intend to be used normally since your computer won't access the internet" %}
 
 
-### 2. Introducing the Screen  
+### 2. KatPad Screen Map  
 
 ![KatPad Map](/images/katpad-screen-06.png){:width="740"}
 

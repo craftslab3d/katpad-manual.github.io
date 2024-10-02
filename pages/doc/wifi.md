@@ -15,6 +15,6 @@ Also, here is possible to inform a suffix for the address. It's necessary if you
 
 {% include note.html content="If you don't inform a suffix, it will continue been `www.katpad-programmer.local`" %}
 
-{% include warning.html content="Remember! While connected at `KATPAD-WIFI-AP`, you won't have internet connection. So, it's important configure your WIFI in order to access `www.katpad-programmer.local` and your internet at the same time." %}
+{% include warning.html content="Remember! While connected at `KATPAD-WIFI-AP`, you won't have internet connection. So, it's important configure your WIFI in order to access `katpad-programmer.local` and your internet at the same time." %}
 
 {% include links.html %}
